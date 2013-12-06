@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ComFacebookAndroidFacebook352.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Example/build/exploded-bundles/ComFacebookAndroidFacebook352.aar/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/Example/build/exploded-bundles/ComFacebookAndroidFacebook352.aar/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

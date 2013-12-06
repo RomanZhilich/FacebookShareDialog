@@ -1,0 +1,24 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.6.+'
+    }
+}
+
+allprojects {
+    version = '1.0'
+
+    repositories {
+        mavenCentral()
+        maven {
+            url 'https://github.com/Goddchen/mvn-repo/raw/master/'
+        }
+    }
+
+//    dependencies {
+//        compile 'com.android.support:support-v4:+'
+//        compile 'com.facebook.android:facebook:3.5.+'
+//    }
+}

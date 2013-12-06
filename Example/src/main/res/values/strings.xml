@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Facebook Share Dialog Example</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="default_link">google.com</string>
+    <string name="action_share">Share</string>
+
+</resources>
