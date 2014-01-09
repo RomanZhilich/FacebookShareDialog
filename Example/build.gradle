@@ -24,5 +24,5 @@ android {
 dependencies {
     compile project(':FacebookShareDialog')
     compile 'com.android.support:support-v4:+'
-    compile 'com.facebook.android:facebook:3.5.+'
+    compile 'com.facebook.android:facebook:3.6+'
 }
